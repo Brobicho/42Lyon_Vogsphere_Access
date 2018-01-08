@@ -29,7 +29,7 @@ EOF
 ### Configuration SSH pour la vogsphere
 
 cat >> /etc/ssh/ssh_config << EOF
-Host *.101.fr
+Host *.le-101.fr
      SendEnv LANG LC_*
      StrictHostKeyChecking no
      GSSAPIAuthentication yes
