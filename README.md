@@ -1,4 +1,9 @@
 # 101_vogsphere_access
+
+## Installation
+
+	./install.sh
+
 ## Accès Kerberos et vogsphere du 101
 
 Ce script a intégralement été copié sur 42_VOGSPHERE_ACCESS, disponible sur Github.
