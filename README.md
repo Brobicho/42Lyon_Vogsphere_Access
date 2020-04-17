@@ -3,7 +3,7 @@
 
 
 Ce script est une adaptation du projet https://github.com/veroxy/42_vogsphere_access
-Après installation, vous serez en mesure d'accéder à la Vogsphère via votre matériel à condition d'être connecté au Wi-Fi 42Lyon.
+Après installation, vous serez en mesure d'accéder à la vogsphere via votre matériel à condition d'être connecté au Wi-Fi 42Lyon.
 
 
 
