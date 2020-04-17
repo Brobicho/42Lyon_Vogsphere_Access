@@ -1,19 +1,19 @@
 # 101_vogsphere_access
 
+Ce script est une adaptation du projet https://github.com/veroxy/42_vogsphere_access
+Après installation, vous serez en mesure d'accéder à la Vogsphère via votre matériel à condition d'être connecté au Wi-Fi 42Lyon.
+
 ## Installation
 
 	./install.sh
 
 ## Accès Kerberos et vogsphere du 101
 
-Ce script a intégralement été copié sur 42_VOGSPHERE_ACCESS, disponible sur Github.
-
-### Note : xlogin = votre identifiant sur l'intra
 
 ### S'identifier :
 
-    kinit xlogin
-    votre mot de passe
+> kinit login
+> mot de passe
 
 Vous pouvez dès à présent bénéficier de la vogsphere.
 
@@ -21,4 +21,5 @@ Vous pouvez dès à présent bénéficier de la vogsphere.
 
     kdestroy
 
-### Adapté pour le-101 par brobicho. Enjoy !
+
+### Adapté pour 42Lyon par brobicho. Enjoy !
